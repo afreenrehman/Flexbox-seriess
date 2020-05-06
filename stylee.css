@@ -1,0 +1,93 @@
+body{
+    background: #adc5b7;
+}
+.wrapper{
+    width: 100%;
+    max-width: 2000px;
+    margin: 0 auto;
+}
+nav{
+    background: rgb(233, 228, 228);
+
+   
+}
+nav ul{
+    list-style-type: none;
+    padding: 0;
+    margin-top: 0;
+}
+nav a{
+    text-decoration: none;
+    display: block;
+    color: rgb(94, 25, 25);
+    padding: 10px;
+}
+nav a:hover{
+    background-color:rgb(199, 184, 184);
+}
+@media screen and (min-width: 768px){
+
+nav ul{
+    display: flex;
+    
+    justify-content: flex-end;
+    
+}
+
+
+}
+h1{
+  
+    color: rgb(90, 34, 39);
+    margin-top: 100px;
+    text-align: center;
+    padding-bottom: 0;
+    font-size: 50px ;
+    font-weight: bold;
+}
+p{
+    color: rgb(90, 34, 39);
+    text-align: center;
+    padding-top: 0;
+    padding-left: 290px;
+    padding-right: 290px;
+    margin-top: 0;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+    line-height: 20px;
+}
+input{
+    background: rgb(99, 100, 99);
+    color: white;
+    padding: 8px;
+    margin-left: 600px;
+    margin-bottom: 50px;
+    padding-left: 50px;
+    text-align: center;
+    padding-right: 50px;
+    font-size: 13px;
+    text-transform: uppercase;
+    
+   
+}
+input:hover{
+    background-color:  rgb(94, 25, 25);
+}
+.hello{
+    display: flex;  
+    padding-right: 30px;
+    margin-left: 400px;
+    margin-right: 440px;
+    margin-bottom: 0;
+
+}
+hr{
+   margin: 0px;
+   padding:0px;
+}
+body{
+    margin: 0;
+}
+
+/* ABOUT */

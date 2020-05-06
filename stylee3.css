@@ -1,0 +1,105 @@
+body{
+    margin:0;
+  background-color: #eff5f3;;;
+}
+.hi
+{
+    color: rgb(138, 31, 40);
+    margin-top: 100px;
+    text-align: center;
+    font-size: 30px ;
+    margin-bottom: 10px;
+
+}
+h4{
+   margin-top: 125px;
+margin-left: 0px;
+   padding-bottom: 1000px;
+padding: 0;
+}
+h2{
+    display: inline;
+    margin-bottom: 0;
+padding: 0;
+
+
+
+}
+.flex{
+    color: rgb(90, 34, 39);
+    display: flex;
+    margin-inline-start: 230px;
+    margin-inline-end: 230px;
+    
+}
+.flexx{
+    color: rgb(90, 34, 39);
+    display: flex;
+    margin-inline-start: 230px;
+    margin-inline-end: 230px;
+    padding-bottom: 150px;
+    margin-top: 0;
+    margin-top:0;
+}
+
+.flex h2 img{
+    padding: 0;
+    margin-top: 100px;
+    margin-right: 10px;
+
+}
+.flexx h2 img{
+    padding: 0;
+    margin-top: 100px;
+    margin: 0;
+    margin-right: 10px;
+}
+.flexx h4{
+    margin-top: 20px;
+}
+main{
+    
+    background: #adc5b7;
+    padding-top:50px;
+    padding-bottom: 80px;
+}
+h1.class{
+    font-size: 25px ;
+    margin-left: 200px;
+    color: rgb(90, 34, 39);}
+    p{
+
+        margin-left: 200px;
+        color: rgb(90, 34, 39);
+        padding-right: 80px;
+        line-height: 28px;
+    }
+    input{
+        margin-left: 200px;
+        border: 3px solid rgb(90, 34, 39);
+         color: rgb(90, 34, 39);
+         font-size: 11px;
+         padding-right: 30px;
+         padding-left: 30px;
+         padding: 9px;
+    }
+    strong{
+       line-height: 10px;
+    }
+    input:hover{
+            background-color: rgb(194, 187, 187);}
+
+main{
+    position: relative;
+}
+.home{
+    position: absolute;
+    left: 800px;
+    top: 610px;
+   
+}
+.home1{
+    position: absolute;
+    left: 1059px;
+    top: 810px;
+}
